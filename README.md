@@ -1,2 +1,2 @@
 # FirstProject
-The very first project
+The very first project, learning the basics of git hub
